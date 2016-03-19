@@ -1,0 +1,13 @@
+{
+  "name": "TagZum",
+  "version": "1.0.0",
+  "description": "TagZum",
+  "main": "start.js",
+  "author": {
+    "name": "John Go",
+    "email": ""
+  }.
+  "dependencies": {
+    "nodebrainz": ">=1.0.0"
+  }
+}
